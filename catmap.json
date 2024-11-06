@@ -1,0 +1,18 @@
+{
+  "Recyclable": [
+    "bottles",
+    "cans",
+    "cardboard",
+    "clothes",
+    "detergent",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "recyclable",
+    "organic-recyclable",
+    "biological"
+  ],
+  "Non Recyclable": ["non-recyclable", "shoes", "teabags"],
+  "Unknown": ["battery", "trash"]
+}

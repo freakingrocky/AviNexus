@@ -1,0 +1,7 @@
+
+train: C:/Users/freakingrocky/CS Stuff/AviNexus/data/train/images
+val: C:/Users/freakingrocky/CS Stuff/AviNexus/data/val/images
+test: C:/Users/freakingrocky/CS Stuff/AviNexus/data/test/images
+
+nc: 17
+names: ['bottles', 'cans', 'cardboard', 'clothes', 'detergent', 'glass', 'metal', 'paper', 'plastic', 'recyclable', 'organic-recyclable', 'biological', 'non-recyclable', 'shoes', 'teabags', 'battery', 'trash']

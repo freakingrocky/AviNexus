@@ -1,0 +1,9 @@
+/data
+/runs
+/yolov7-git
+*.pyc
+**/build/*
+.git
+/WebApp Mobile
+/Dashboard
+*.pt
